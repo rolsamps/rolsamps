@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Rolando Sampaga 
+<img width="960" height="1366" alt="1000012455" src="https://github.com/user-attachments/assets/84946af1-5329-4943-832d-ea17e8b76b52" />
