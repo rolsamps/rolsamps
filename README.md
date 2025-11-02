@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔧 IT Specialist with 5+ years infrastructure optimization experience
-📜 Certified: CCNA, Linux LPI | Pursuing AWS Solutions Architect
-☁️ Building expertise in: Cloud migration, AI integration, cost optimization
-📈 Focus on scalable architectures and performance-driven solutions
+🔧 IT Specialist with 5+ years infrastructure optimization experience \
+📜 Certified: CCNA, Linux LPI | Pursuing AWS Solutions Architect \
+☁️ Building expertise in: Cloud migration, AI integration, cost optimization \
+📈 Focus on scalable architectures and performance-driven solutions \
 🚀 Seeking cloud engineering role to leverage infrastructure foundation
 
 <img width="444" height="8830" alt="1000012455" src="https://github.com/user-attachments/assets/84946af1-5329-4943-832d-ea17e8b76b52" />
