@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Rolando Sampaga 
+## Hi 👋, I'm Rolando Sampaga 
 
 <!--
 **rolsamps/rolsamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
