@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🚀 Focus on scalable architectures and performance-driven solutions
 🔍 Seeking cloud engineering role to leverage computing infrastructure foundation
 
-<img width="444" height="8830" alt="1000012455" src="https://github.com/user-attachments/assets/84946af1-5329-4943-832d-ea17e8b76b52" />
+<img width="444" height="883" alt="1000012455" src="https://github.com/user-attachments/assets/84946af1-5329-4943-832d-ea17e8b76b52" />
