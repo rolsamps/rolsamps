@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌐 IT Specialist | 5+ years enterprise IT experience | AWS CLF-C02 + AWS SAA-C03 + CCNA + Linux LPI  
-🔧 Building hands-on AWS project portfolio
-☁️ Advancing my skills in: Cloud Migration, AI Integration, Cost Optimization, Security
-🚀 Focus on scalable architectures and performance-driven solutions
+🌐 IT Specialist | 5+ years enterprise IT experience | AWS CLF-C02 + AWS SAA-C03 + CCNA + Linux LPI  \
+🔧 Building hands-on AWS project portfolio \
+☁️ Advancing my skills in: Cloud Migration, AI Integration, Cost Optimization, Security \
+🚀 Focus on scalable architectures and performance-driven solutions \
 🔍 Seeking cloud engineering role to leverage computing infrastructure foundation
 
 <img width="444" height="643" alt="1000012455" src="https://github.com/user-attachments/assets/84946af1-5329-4943-832d-ea17e8b76b52" />
